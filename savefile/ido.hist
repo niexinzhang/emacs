@@ -1,0 +1,190 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/niexz/python/zqxt_tmpl/" . "zqxt_tmpl/")
+ ("/Users/niexz/python/zqxt_views/" . "zqxt_views/")
+ ("/Users/niexz/python/website/" . "website/")
+ ("/Users/niexz/python/base/" . "base/")
+ ("/Users/niexz/python/" . "base/")
+ ("/Users/niexz/capistrano/" . "sso/")
+ ("/Users/niexz/autopush/salt/railsline/files/cas/config/" . "settings/")
+ ("/Users/niexz/autopush/salt/railsline/files/cas/" . "config/")
+ ("/Users/niexz/autopush/salt/railsline/files/" . "cas/")
+ ("/Users/niexz/autopush/salt/railsline/" . "files/")
+ ("/Users/niexz/autopush/" . "salt/")
+ ("/Users/niexz/" . "org/")
+ ("/Users/niexz/capistrano/sso/config/" . "settings/")
+ ("/Users/" . "niexz/")
+ ("/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/niexz/python/base/base/"
+ "/Users/niexz/python/djcode/mysite/mysite/templates/"
+ "/Users/niexz/python/db/"
+ "/private/tmp/"
+ "/Users/niexz/org/"
+ "/Users/niexz/python/base/edaixi/"
+ "/Users/niexz/python/work/"
+ "/Users/niexz/python/zqxt_tmpl/zqxt_tmpl/"
+ "/Users/niexz/python/zqxt_tmpl/learn/templates/"
+ "/Users/niexz/python/zqxt_tmpl/learn/"
+ "/Users/niexz/python/zqxt_views/zqxt_views/"
+ "/Users/niexz/python/zqxt_views/calc/"
+ "/Users/niexz/python/website/website/"
+ "/Users/niexz/python/website/learn/"
+ "/Users/niexz/python/base/lesson14/"
+ "/Users/niexz/python/base/lesson13/"
+ "/Users/niexz/python/base/lesson12/"
+ "/Users/niexz/python/"
+ "/Users/niexz/python/base/lesson11/"
+ "/Users/niexz/python/base/lesson10/"
+ "/Users/niexz/python/base/lesson9/"
+ "/Users/niexz/python/base/lesson8/"
+ "/Users/niexz/python/base/lesson7/"
+ "/Users/niexz/python/base/lesson6/"
+ "/Users/niexz/python/base/lesson5/"
+ "/Users/niexz/python/base/lesson4/"
+ "/Users/niexz/capistrano/sso/config/deploy/"
+ "/Users/niexz/capistrano/sso/config/"
+ "/Users/niexz/autopush/salt/railsline/files/cas/config/settings/"
+ "/Users/niexz/capistrano/sso/config/settings/"
+ "/Users/niexz/autopush/salt/railsline/files/cas/config/"
+ "/Users/niexz/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "settings.py"
+ "futuretime.html"
+ "current_date.html"
+ "base.html"
+ "load_yaml.py"
+ "database.yml"
+ "aa.py"
+ "role.org"
+ "query.py"
+ "__init__.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/niexz/python/djcode/mysite/mysite/" (22136 50014 0 0) "wsgi.pyc" "wsgi.py" "views.pyc" "views.py" "urls.pyc" "urls.py" "templates/" "settings.pyc" "settings.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/niexz/python/base/base/" (22126 22833 0 0) "wsgi.py" "urls.py" "settings.py" "__init__.py" "../" "./")
+
+ ("/Users/niexz/python/base/edaixi/" (22132 46270 0 0) "views.py" "txSDK/" "tests.py" "query.py" "models.py" "migrations/" "conf/" "apps.py" "admin.py" "__init__.py" "../" "./")
+
+ ("/Users/niexz/python/" (22133 63813 0 0) "zqxt_views/" "zqxt_tmpl/" "zqxt_admin/" "work/" "website/" "washingData.py" "updateHostname.py" "tar_many_to_one.py" "sms.py" "odbchelper.pyc" "odbchelper.py" "list" "learn_models/" "httpcode.py" "generPasswd.py" "for.py" "first.py" "excel/" "dump.sh" "djcode/" "db/" "countlist" "common_files/" "check_port.py" "bpfntp/" "base/" "abaseofpython/" ".DS_Store" "../" "./")
+
+ ("/Users/niexz/python/djcode/" (22133 63857 0 0) "mysite/" "../" "./")
+
+ ("/Users/niexz/python/djcode/mysite/" (22135 59611 0 0) "mysite/" "manage.py" "db.sqlite3" "books/" "../" "./")
+
+ ("/Users/niexz/python/djcode/mysite/mysite/templates/" (22135 47689 0 0) "futuretime.html" "current_date.html" "base.html" "../" "./")
+
+ ("/Users/niexz/python/db/" (22130 61761 0 0) "database.yml" "connect.py" "../" "./")
+
+ ("/private/tmp/" (22130 22497 0 0) "UserName" "sidekiq.log" "mysql.sock" "KSOutOfProcessFetcher.501.IW-ShwaXJwmHlkfc5wb2ZMHOaJY=/" "fm_sg_cloud_cache.v0.filemap.sogouime_3.3.0.76660_00000000_501" "fm_sg_cloud_cache.v0.filemap.sogouime_3.3.0.73565_00000000_501" "com.sogou.inputmethod/" "com.apple.launchd.TAsPowACaA/" "com.apple.launchd.t9co25ufwj/" "back/" "aa.py" "../" "./")
+
+ ("/private/tmp/com.apple.launchd.TAsPowACaA/" (22130 22793 0 0) "Listeners" "../" "./")
+
+ ("/Users/niexz/" (22127 55109 0 0) "python/" "Pictures/" "org/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" "capistrano/" "autopush/" "Applications/" ".viminfo" ".vim/" ".Trash/" ".ssh/" ".mysql_history" ".ipython/" ".gitconfig" ".erc/" ".emacs.d/" ".DS_Store" ".CFUserTextEncoding" ".bash_history" ".bak.emacs.d/" "../" "./")
+
+ ("/Users/niexz/org/" (22129 2661 0 0) "work.org" "todolist.org" "fabu.org" "etc.org" "daily.org" "../" "./")
+
+ ("/tmp/" (22127 44142 0 0) "UserName" "sidekiq.log-20151213.tar.bz2" "sidekiq.log-20151212.tar.bz2" "sidekiq.log" "new_file" "mysql.sock" "KSOutOfProcessFetcher.501.IW-ShwaXJwmHlkfc5wb2ZMHOaJY=/" "fm_sg_cloud_cache.v0.filemap.sogouime_3.3.0.76660_00000000_501" "fm_sg_cloud_cache.v0.filemap.sogouime_3.3.0.73565_00000000_501" "com.sogou.inputmethod/" "com.apple.launchd.TAsPowACaA/" "com.apple.launchd.t9co25ufwj/" "back/" "aa.py" "../" "./")
+
+ ("/Users/niexz/python/base/" (22127 29256 0 0) "manage.py" "edaixi/" "base/" "../" "./")
+
+ ("/Users/niexz/python/work/" (22121 39458 0 0) "makeJgdCount.py" "makeCount.py" "list" "../" "./")
+
+ ("/Users/niexz/python/base/edaixi/conf/" (22126 39365 0 0) "sdk.pyc" "sdk.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/niexz/python/zqxt_tmpl/learn/templates/" (22126 1461 0 0) "home.html" "../" "./")
+
+ ("/Users/niexz/python/zqxt_tmpl/learn/" (22126 167 0 0) "views.pyc" "views.py" "tests.py" "templates/" "models.pyc" "models.py" "migrations/" "apps.py" "admin.pyc" "admin.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/niexz/python/zqxt_tmpl/" (22125 27343 0 0) "zqxt_tmpl/" "manage.py" "learn/" "db.sqlite3" "../" "./")
+
+ ("/Users/niexz/python/zqxt_tmpl/zqxt_tmpl/" (22125 65376 0 0) "wsgi.pyc" "wsgi.py" "urls.pyc" "urls.py" "settings.pyc" "settings.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/niexz/python/zqxt_views/" (22125 25327 0 0) "zqxt_views/" "manage.py" "db.sqlite3" "calc/" "../" "./")
+
+ ("/Users/niexz/python/zqxt_views/zqxt_views/" (22125 25667 0 0) "wsgi.pyc" "wsgi.py" "urls.pyc" "urls.py" "settings.pyc" "settings.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/niexz/python/zqxt_views/calc/" (22125 25249 0 0) "views.py" "tests.py" "models.py" "migrations/" "apps.py" "admin.py" "__init__.py" "../" "./")
+
+ ("/Users/niexz/python/website/" (22125 24853 0 0) "website/" "manage.py" "learn/" "db.sqlite3" "../" "./")
+
+ ("/Users/niexz/python/website/website/" (22125 24853 0 0) "wsgi.pyc" "wsgi.py" "urls.pyc" "urls.py" "settings.pyc" "settings.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/niexz/python/website/learn/" (22125 24721 0 0) "views.py" "tests.py" "models.py" "migrations/" "apps.py" "admin.py" "__init__.py" "../" "./")
+
+ ("/Users/niexz/python/base/lesson14/" (22125 38 0 0) "../" "./")
+
+ ("/Users/niexz/python/base/lesson13/" (22124 65294 0 0) "try_except.py" "raising.py" "../" "./")
+
+ ("/Users/niexz/python/base/lesson12/" (22124 63937 0 0) "using_file.py" "shoplist.data" "poem.txt" "pickling.py" "../" "./")
+
+ ("/usr/" (21897 32717 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("/usr/bin/" (22120 22988 0 0) "zprint" "znew" "zmore" "zless" "zipsplit" "zipnote" "zipinfo" "zipgrep" "zipdetails5.18" "zipdetails5.16" "zipdetails" "zipcloak" "zip" "zgrep" "zforce" "zfgrep" "zegrep" "zdiff" "zcmp" "zcat" "ypwhich" "ypmatch" "ypcat" "yes" "yacc" "xxd" "xsubpp5.18" "xsubpp5.16" "xsubpp" "xsltproc" "xslt-config" "xpath5.18" "xpath5.16" "xpath" "xmllint" "xmlcatalog" "xml2man" "xml2-config" "xjc" "xip" "xgettext5.18.pl" "xgettext5.16.pl" "xgettext.pl" "xed" "xcrun" "xcodebuild" "xcode-select" "xattr-2.7" "xattr-2.6" "xattr" "xargs" "xar" "wsimport" "wsgen" "write" "wish8.5" "wish8.4" "wish" "whois" "whoami" "who" "which" "whereis" "whatis" "what" "weblatency.d" "wdutil" "wc" "wall" "wait" "w" "vmmap" "vm_stat" "vis" "VirtualBox" "vimtutor" "vimdiff" "vim" "view" "vi" "vboxwebsrv" "VBoxVRDP" "VBoxManage" "VBoxHeadless" "VBoxBalloonCtrl" "VBoxAutostart" "uux" "uuto" "uustat" "uupick" "uuname" "uulog" "uuidgen" "uuencode" "uudecode" "uucp" "users" "usbkdp" "uptime" "update_dyld_shared_cache" "unzipsfx" "unzip" "unvis" "UnRezWack" "unpack200" "units" "uniq" "unifdefall" "unifdef" "unexpand" "uncompress" "uname" "unalias" "umask" "ulimit" "ul" "type" "twistd" "tty" "tt" "tsort" "tset" "true" "troff" "trial" "treereg5.18" "treereg5.16" "treereg" "traptoemail" "trace" "tr" "tput" "touch" "topsysproc" "topsyscall" "tops" "top" "toe" "tnameserv" "tmutil" "tmdiagnose" "tkpp5.18" "tkpp5.16" "tkpp" "tkmib" "tkcon" "timerfires" "timer_analyser.d" "time" "tilt" "tiffutil" "tiff2icns" "tidy" "tic" "thor" "thin" "thermal" "tftp" "tfmtodit" "textutil" "texindex" "texi2pdf" "texi2dvi" "testrb" "telnet" "tee" "tclsh8.5" "tclsh8.4" "tclsh" "tccutil" "tbl" "taskinfo" "tar" "talk" "tail" "tabs" "tab2space" "syslog" "sysdiagnose" "syscallbysysc.d" "syscallbyproc.d" "syscallbypid.d" "symbolscache" "symbols" "swiftc" "swift" "sw_vers" "svnversion" "svnsync" "svnserve" "svnlook" "svndumpfilter" "svnadmin" "svn" "sum" "sudo" "su" "stty5.18.pl" "stty5.16.pl" "stty.pl" "strip" "strings" "stringdups" "stat" "ssh-keyscan" "ssh-keygen" "ssh-agent" "ssh-add" "ssh" "srm" "sqlite3" "sprockets" "SplitForks" "split" "splain5.18" "splain5.16" "splain" "spfquery5.18" "spfquery5.16" "spfquery" "spfd5.18" "spfd5.16" "spfd" "sort" "soelim" "sntp" "snmpwalk" "snmpvacm" "snmpusm" "snmptrap" "snmptranslate" "snmptest" "snmptable" "snmpstatus" "snmpset" "snmpnetstat" "snmpinform" "snmpgetnext" "snmpget" "snmpdf" "snmpdelta" "snmpconf" "snmpbulkwalk" "snmpbulkget" "snmp-bridge-mib" "snfsdefrag" "smtpd2.7.py" "smtpd2.6.py" "smtpd.py" "smbutil" "slogin" "slimrb" "size" "sips" "sigdist.d" "sidekiqctl" "sidekiq" "showmount" "shlock" "shasum5.18" "shasum5.16" "shasum" "shar" "sftp" "setuids.d" "setregion" "SetFile" "servertool" "serialver" "seq" "segedit" "seeksize.d" "sed" "security" "sdx" "sdp" "sdoc-merge" "sdoc" "sdiff" "sdef" "scss" "script" "screen" "scp" "schemagen" "scandeps5.18.pl" "scandeps5.16.pl" "scandeps.pl" "sc_usage" "say" "sass-convert" "sass" "sar" "sandbox-simplify" "sandbox-exec" "sampleproc" "sample" "safe_yaml" "s2p5.18" "s2p5.16" "s2p" "rwsnoop" "rwho" "rwbytype.d" "rwbypid.d" "rvim" "rview" "rvictl" "ruptime" "runocc.d" "ruby" "rsync" "rspec" "rsh" "rs" "rpcgen" "rmiregistry" "rmid" "rmic" "rlogin" "ri" "RezWack" "RezDet" "Rez" "rev" "restclient" "resolveLinks" "ResMerger" "reset" "renice" "refer" "redo_prebinding" "rebase" "readlink" "read" "rdoc" "ranlib" "rake" "rails" "rackup" "quota" "qtmodernizer" "qtdefaults" "qlmanage" "qc2movie" "pythonw2.7" "pythonw2.6" "pythonw" "python2.7-config" "python2.7" "python2.6-config" "python2.6" "python-config" "python" "pydoc2.7" "pydoc2.6" "pydoc" "pwpolicy" "pwhich5.18" "pwhich5.16" "pwhich" "pubsub" "ptargrep5.18" "ptargrep5.16" "ptargrep" "ptardiff5.18" "ptardiff5.16" "ptardiff" "ptar5.18" "ptar5.16" "ptar" "pstruct5.18" "pstruct5.16" "pstruct" "pstopdf" "psed5.18" "psed5.16" "psed" "pry" "prove5.18" "prove5.16" "prove" "profiles" "productsign" "productbuild" "procsystime" "procmail" "printf" "printenv" "pridist.d" "priclass.d" "pre-grohtml" "pr" "ppdpo" "ppdmerge" "ppdi" "ppdhtml" "ppdc" "pp5.18" "pp5.16" "pp" "powermetrics" "power_report.sh" "post-grohtml" "policytool" "podselect5.18" "podselect5.16" "podselect" "podchecker5.18" "podchecker5.16" "podchecker" "pod2usage5.18" "pod2usage5.16" "pod2usage" "pod2text5.18" "pod2text5.16" "pod2text" "pod2readme5.18" "pod2readme5.16" "pod2readme" "pod2man5.18" "pod2man5.16" "pod2man" "pod2latex5.18" "pod2latex5.16" "pod2latex" "pod2html5.18" "pod2html5.16" "pod2html" "pmset" "plutil" "pluginkit" "plockstat" "pl2pm5.18" "pl2pm5.16" "pl2pm" "pl" "pkill" "pkgbuild" "pidpersec.d" "piconv5.18" "piconv5.16" "piconv" "pico" "pic2graph" "pic" "phpize" "php-config" "php" "phar.phar" "phar" "pgrep" "pfbtops" "perlthanks5.18" "perlthanks5.16" "perlthanks" "perlivp5.18" "perlivp5.16" "perlivp" "perldoc5.18" "perldoc5.16" "perldoc" "perlbug5.18" "perlbug5.16" "perlbug" "perl5.18" "perl5.16" "perl" "perfdiagnose" "pdfroff" "pcsctest" "pcap-config" "pbpaste" "pbcopy" "pathopens.d" "pathchk" "patch" "paste" "passwd" "parldyn5.18" "parldyn5.16" "parldyn" "parl5.18" "parl5.16" "parl" "par5.18.pl" "par5.16.pl" "par.pl" "pagestuff" "pagesize" "package-stash-conflicts5.18" "package-stash-conflicts5.16" "package-stash-conflicts" "pack200" "otool" "ostraceutil" "osascript" "osalang" "osadecompile" "osacompile" "org_mvim" "orbd" "openvpn" "openssl" "opensnoop" "opendiff" "open" "odutil" "od" "ntpq" "ntp-keygen" "nsupdate" "nslookup" "nroff" "notifyutil" "nokogiri" "nohup" "nmedit" "nm" "nl" "nice" "nfsstat" "newproc.d" "newgrp" "newaliases" "nettop" "net-snmp-create-v3-user" "net-snmp-config" "net-snmp-cert" "net-server5.18" "net-server5.16" "net-server" "neqn" "ndisasm" "ncurses5.4-config" "ncdestroy" "ncal" "nc" "nbdst" "native2ascii" "nasm" "nano" "MvMac" "mvim" "msgs" "more" "moose-outdated5.18" "moose-outdated5.16" "moose-outdated" "moo-outdated5.18" "moo-outdated" "mnthome" "mmroff" "mktemp" "mklocale" "mkfifo" "mkdep" "mkbom" "mina" "mig" "mib2c-update" "mib2c" "mesg" "MergePef" "memory_pressure" "mdutil" "mdls" "mdimport32" "mdimport" "mdfind" "mddiagnose" "mcxrefresh" "mcxquery" "manpath" "man" "malloc_history" "makeinfo" "make" "mailx" "mailstat" "mailq" "mail" "machine" "macerror5.18" "macerror5.16" "macerror" "macbinary" "m4" "lwp-request5.18" "lwp-request5.16" "lwp-request" "lwp-mirror5.18" "lwp-mirror5.16" "lwp-mirror" "lwp-dump5.18" "lwp-dump5.16" "lwp-dump" "lwp-download5.18" "lwp-download5.16" "lwp-download" "lsvfs" "lsmp" "lsm" "lsbom" "lsappinfo" "lpstat" "lprm" "lpr" "lpq" "lpoptions" "lp" "lorder" "lookbib" "look" "logname" "login" "logger" "lockstat" "lockfile" "locate" "localedef" "locale" "loads.d" "llvm-gcc" "llvm-g++" "lldb" "lkbib" "listen" "lipo" "libtool" "libnetcfg5.18" "libnetcfg5.16" "libnetcfg" "lex" "lessecho" "less" "leave" "leaks" "ldiff" "ldapwhoami" "ldapurl" "ldapsearch" "ldappasswd" "ldapmodrdn" "ldapmodify" "ldapexop" "ldapdelete" "ldapcompare" "ldapadd" "ld" "latency" "lastwords" "lastcomm" "last" "lam" "kswitch" "krb5-config" "kpasswd" "klist" "kinit" "killall" "kill.d" "kgetcred" "keytool" "kextutil" "kdestroy" "kcc" "jvisualvm" "jstatd" "jstat" "jstack" "json_pp5.18" "json_pp5.16" "json_pp" "jsadebugd" "jrunscript" "jps" "jot" "join" "jobs" "jmc" "jmap" "jinfo" "jhat" "jdb" "jconsole" "jcmd" "javaws" "javap" "javah" "javadoc" "javac" "java" "jarsigner" "jar" "irb" "iptab5.18" "iptab5.16" "iptab" "iprofiler" "ipptool" "ippfind" "ipmitool" "ipcs" "ipcrm" "ipcount5.18" "ipcount5.16" "ipcount" "ip2cc5.18" "ip2cc5.16" "ip2cc" "iotop" "iosnoop" "iopending" "iopattern" "iofileb.d" "iofile.d" "instruments" "instmodsh5.18" "instmodsh5.16" "instmodsh" "install_name_tool" "install-info" "install" "infotocap" "infokey" "infocmp" "info" "indxbib" "indent" "imptrace" "idlj" "idle2.7" "idle2.6" "idle" "id" "ictool" "iconv" "iconutil" "ibtool" "httpdstat.d" "htmltree5.18" "htmltree5.16" "htmltree" "htmldiff" "hpftodit" "hotspot.d" "hostinfo" "host" "hiutil" "hexdump" "heap" "headerdoc2html" "head" "hdxml2manxml" "hdiutil" "hdid" "hash" "h2xs5.18" "h2xs5.16" "h2xs" "h2ph5.18" "h2ph5.16" "h2ph" "gzip" "gzexe" "gzcat" "gunzip" "guard" "groups" "grotty" "grops" "grolj4" "grolbp" "grog" "groffer" "groff" "grodvi" "grn" "grep" "grap2graph" "gperf" "gosalt" "gnuserv" "gnumake" "gnudoit" "gnuclient" "gnuattach" "gm4" "git-upload-pack" "git-upload-archive" "git-shell" "git-receive-pack" "git-cvsserver" "git" "getopts" "getopt" "GetFileInfo" "getconf" "genstrings" "gencat" "gen_bridge_metadata" "gem" "gdiffmk" "gcov" "gcc" "gatherheaderdoc" "g++" "fwkpfv" "fwkdp" "fuser" "funzip" "ftp" "fs_usage" "from" "format-sql5.18" "format-sql5.16" "format-sql" "formail" "footprint" "fontrestore" "fold" "fmt" "flex++" "flex" "fixproc" "finger" "findrule5.18" "findrule5.16" "findrule" "find2perl5.18" "find2perl5.16" "find2perl" "find" "filtercalltree" "filebyproc.d" "file" "fgrep" "fg" "fdesetup" "fddist" "fc" "fax" "false" "eyapp5.18" "eyapp5.16" "eyapp" "extcheck" "expect" "expand" "execsnoop" "ex" "etags" "erubis" "errinfo" "erb" "eqn2graph" "eqn" "env" "encode_keychange" "enc2xs5.18" "enc2xs5.16" "enc2xs" "emacsclient" "emacs-undumped" "emacs" "egrep" "efix" "efax" "easy_install-2.7" "easy_install-2.6" "easy_install" "dwarfdump" "du" "dtruss" "dsymutil" "dsmemberutil" "dsimport" "dsexport" "dserr" "dscl" "dscacheutil" "drutil" "dns-sd" "ditto" "dispqlen.d" "diskhits" "dirname" "dig" "diffstat" "diff3" "diff" "desdp" "DeRez" "defaults" "debinhex5.18.pl" "debinhex.pl" "dc" "dbiproxy5.18" "dbiproxy5.16" "dbiproxy" "dbiprof5.18" "dbiprof5.16" "dbiprof" "dbilogstrip5.18" "dbilogstrip5.16" "dbilogstrip" "dbicadmin5.18" "dbicadmin5.16" "dbicadmin" "db_verify" "db_upgrade" "db_stat" "db_recover" "db_printlog" "db_load" "db_hotbackup" "db_dump" "db_deadlock" "db_codegen" "db_checkpoint" "db_archive" "darwinup" "dapptrace" "dappprof" "cvmkfile" "cvmkdir" "cvcp" "cvaffinity" "cut" "curl-config" "curl" "cupstestppd" "cupstestdsc" "cups-config" "cu" "ctf_insert" "ctags" "csreq" "csplit" "csgather" "csdiagnose" "crontab" "crlrefresh" "creatbyproc.d" "crc325.18" "crc325.16" "crc32" "cpuwalk.d" "cpu_profiler.d" "cpp" "CpMac" "cpio" "cpanp5.18" "cpanp5.16" "cpanp-run-perl5.18" "cpanp-run-perl5.16" "cpanp-run-perl" "cpanp" "cpan5.18" "cpan5.16" "cpan2dist5.18" "cpan2dist5.16" "cpan2dist" "cpan" "corelist5.18" "corelist5.16" "corelist" "config_data5.18" "config_data5.16" "config_data" "compress" "command" "comm" "column" "colrm" "colldef" "colcrt" "col" "codesign_allocate" "codesign" "coderay" "cmpdylib" "cmp" "clear" "clang++" "clang" "cksum" "chsh" "chpass" "chgrp" "chfn" "chflags" "checknr" "certtool" "cd" "cc" "captoinfo" "capify" "cap_mkdb" "cap" "cancel" "calendar" "cal" "caffeinate" "c_rehash" "c99" "c89" "c2ph5.18" "c2ph5.16" "c2ph" "c++filt" "c++" "bzmore" "bzless" "bzip2recover" "bzip2" "bzgrep" "bzfgrep" "bzegrep" "bzdiff" "bzcmp" "bzcat" "bunzip2" "bundler" "bundle" "BuildStrings" "btmmdiagnose" "bspatch" "bsdtar" "brctl" "bitesize.d" "bison" "binhex5.18.pl" "binhex.pl" "binhex" "biff" "bg" "bc" "batch" "bashbug" "basename" "base64" "banner" "bak_emacs" "awk" "avmetareadwrite" "avconvert" "avbdiagnose" "auvaltool" "auval" "autospec" "automator" "atsutil" "atrm" "atq" "atos" "at" "asctl" "asa" "as" "arch" "ar" "apu-1-config" "apt" "apropos" "apr-1-config" "apply" "appletviewer" "applesingle" "allmemory" "alias" "agvtool" "agentxtrap" "afscexpand" "afplay" "afmtodit" "afinfo" "afida" "afhash" "afconvert" "addftinfo" "a2p5.18" "a2p5.16" "a2p" "_guard-core" "2to32.6" "2to3-2.7" "2to3-" "2to3" "../" "./")
+
+ ("/Users/niexz/python/base/lesson11/" (22124 18258 0 0) "../" "./")
+
+ ("/Users/niexz/python/base/lesson10/" (22124 17541 0 0) "backup_ver3.py" "backup_ver2.py" "backup_ver1.py" "../" "./")
+
+ ("/Users/niexz/python/base/lession10/" (22124 15031 0 0) "../" "./")
+
+ ("/Users/niexz/python/base/lesson9/" (22124 15140 0 0) "using_list.py" "str_methods.py" "../" "./")
+
+ ("/Users/niexz/python/base/lesson8/" (22122 43620 0 0) "using_sys.pyc" "using_sys.py" "using_name.pyc" "using_name.py" "../" "./")
+
+ ("/Users/niexz/python/base/lesson7/" (22122 41141 0 0) "function1.py" "func_return.py" "func_param.py" "func_local.py" "func_key.py" "func_global.py" "func_doc.pyc" "func_doc.py" "func_default.py" "../" "./")
+
+ ("/Users/niexz/python/base/lesson6/" (22122 37789 0 0) "while.py" "if.py" "for.py" "continue.py" "break.py" "../" "./")
+
+ ("/Users/niexz/python/base/lesson5/" (22122 34767 0 0) "expression.py" "../" "./")
+
+ ("/Users/niexz/python/base/lesson4/" (22122 34480 0 0) "var.py" "../" "./")
+
+ ("/Users/niexz/python/base/lesson3/" (22122 33891 0 0) "helloworld.py" ".#helloworld.py" "../" "./")
+
+ ("/Network/" (21519 26469 0 0) "../" "./")
+
+ ("/Users/niexz/capistrano/sso/config/" (22121 17393 0 0) "settings.yml" "settings/" "secrets.yml" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "deploy.rb" "deploy/" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/niexz/capistrano/sso/config/deploy/" (22121 8018 0 0) "staging.rb" "production.rb" "../" "./")
+
+ ("/Users/niexz/capistrano/sso/" (22121 15774 0 0) "vendor/" "test/" "README.rdoc" "README.md" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "Capfile" "bin/" "app/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/niexz/autopush/salt/railsline/files/cas/config/settings/" (22121 6688 0 0) "production.yml" ".#.production.yml.swp" "../" "./")
+
+ ("/Users/niexz/autopush/salt/railsline/files/cas/config/" (22121 6602 0 0) "settings/" "../" "./")
+
+ ("/Users/niexz/autopush/salt/railsline/files/" (22120 64262 0 0) "zhongbao/" "www/" "wuliuapp/" "wuliu/" "sso/" "shell/" "router/" "ops/" "open/" "oneapm.yml" "nginx.conf" "messagebox/" "kefu/" "jiagongdian/" "jgdops/" "iptables" "initvdb_ext4.sh" "hosts" "hash.list" "geoengine/" "cas/" "caiwu/" "blackhole/" "api/" ".ssh/" "../" "./")
+
+ ("/Users/niexz/autopush/salt/railsline/" (22120 64193 0 0) "zhongbao.sls" "www.sls" "wuliuapp.sls" "wuliu.sls" "sso.sls" "splunk.sls" "ops.sls" "open.sls" "nginx_edit.sls" "messagebox.sls" "kefu.sls" "jiagongdian.sls" "jgdops.sls" "iptables.sls" "hosts.sls" "hashscp.sls" "geoengine.sls" "files/" "csh.sls" "crontab.sls" "cas.sls" "caiwu.sls" "blackhole.sls" "api.sls" "../" "./")
+
+ ("/Users/niexz/autopush/salt/" (22120 60835 0 0) "zabbix/" "uploadlog/" "top.sls" "temp/" "salt-mode.tar.gz" "rsyslogd_sshd/" "rsync/" "rongchain/" "railsline/" "phpline/" "openldap_sshd/" "monitor/" "logmonitor/" "iptables/" "getserverinfojson.sh" "gethost.sh" "elk/" "crontab/" "basic/" "123123" "123" "../" "./")
+
+ ("/Users/niexz/autopush/" (22120 60835 0 0) "salt/" "pillar/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/niexz/capistrano/" (22121 5655 0 0) "sso/" "../" "./")
+
+ ("/Users/niexz/capistrano/sso/config/settings/" (22121 5737 0 0) "test.yml" "staging.yml" "production.yml" "development.yml" "../" "./")
+
+ ("/Users/niexz/autopush/salt/railsline/files/cas/" (22120 64327 0 0) "config/" "cas.conf" "../" "./")
+
+ ("/Users/niexz/.emacs.d/personal/" (22120 25538 0 0) "preload/" ".gitkeep" "../" "./")
+
+ ("/Users/niexz/.emacs.d/" (22120 30180 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el" "personal/" "modules/" "init.el" "elpa/" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/" (22120 21686 0 0) "Shared/" "niexz/" "Guest/" "apple/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

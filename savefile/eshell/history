@@ -1,0 +1,128 @@
+ls
+python query.py 
+ls txSDK/src/QcloudApi/qcloudapi
+ls
+python query.py 
+cd txSDK/
+ls
+cd src/
+ls
+cd .
+cd. .
+cd ..
+ls
+mv src ..
+cd ..
+ls
+rm -rf txSDK 
+mv src txSDK
+python query.py 
+pip install pyopenssl ndg-httpsclient pyasn1
+sudo pip install pyopenssl ndg-httpsclient pyasn1
+python query.py 
+ipython
+pip install certifi
+sudo pip install certifi
+python query.py 
+python query.py 
+pip install urllib3[secure]
+sudo pip install urllib3[secure]
+python query.py 
+pip install 'requests[security]'
+sudo pip install 'requests[security]'
+pip install --upgrade ndg-httpsclient
+sudo pip install ndg-httpsclient
+clear
+python query.py 
+cat conf/sdk.py
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+ks
+ls
+cd txSDK/
+ls
+cd QcloudApi/
+ls
+grep urlib2  -r
+grep urllib2  -r
+grep urllib  -r
+cd ..
+cd ..
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+ipython
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+python query.py 
+cd ..
+cd. .
+ls
+cd ..
+ls
+cd work/
+ls
+python makeJgdCount.py
+make makeCount.py 
+pythnon  makeCount.py 
+python  makeCount.py 
+ps -ef|grep meacs
+ps -ef|grep emacs
+exit
+ls
+ping www.baidu.com
+ls
+python read_test.py 
+ls
+cat read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+!
+python read_test.py 
+python read_test.py 
+cp ~/Desktop/test.xlsx .
+python read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+pythnon  makeCount.py 
+pythnon  makeCount.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 
+python read_test.py 

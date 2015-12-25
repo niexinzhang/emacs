@@ -1,0 +1,1 @@
+("~/autopush/" "~/.emacs.d/" "~/python/common_files/" "~/capistrano/sso/")

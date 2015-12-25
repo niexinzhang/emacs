@@ -1,0 +1,23 @@
+;; -*- emacs-lisp -*- <15/12/20 08:38:57 /Users/niexz/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["sudo" "root" "localhost" nil nil]
+  ("locale" "LC_ALL=C")
+  ("uname" "Darwin 14.1.0")
+  ("test" "test")
+  ("remote-path"
+   ("/usr/bin" "/bin" "/usr/sbin" "/sbin" "/usr/local/bin" "/opt/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("readlink" nil)
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("stat" nil)
+  ("id" "/usr/bin/id")
+  ("gid-integer" 0)
+  ("file-exists" "test -e")
+  ("gid-string" "wheel")
+  ("uid-integer" 0)
+  ("gvfs-monitor-dir" nil)
+  ("inotifywait" nil)))

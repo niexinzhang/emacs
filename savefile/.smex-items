@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ html-mode
+ load-theme
+ eshell
+ ansi-term
+ cd
+ 5x5
+ arp
+)
+
+;; ----- smex-data -----
+(
+ (ansi-term . 1)
+ (eshell . 1)
+ (load-theme . 14)
+ (html-mode . 2)
+)
